@@ -12,6 +12,8 @@ This starter kit tries to implement a NodeJS, ExpressJS and MongoDB powered web 
 
 Note: Run `pnpm run start:dev` for hot-reload.
 
+reloaded
+
 # Core Features
 
 - Dependency injection
